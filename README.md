@@ -48,3 +48,24 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="center">Contribution Activity</h3>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/NgcHuyzz/NgcHuyzz/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/NgcHuyzz/NgcHuyzz/pacman-output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="GitHub contribution activity shown as a Pac-Man animation"
+      src="https://raw.githubusercontent.com/NgcHuyzz/NgcHuyzz/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+  </picture>
+</div>
